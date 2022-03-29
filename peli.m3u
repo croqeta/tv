@@ -1,2 +1,4 @@
- #EXTINF:-1 tvg-name="peli" tvg-logo="" group-title="",
+#EXTM3U
+
+#EXTINF:-1 tvg-name="peli" tvg-logo="" group-title="",
 http://51.77.66.14/Marvel/Hulk/El%20Increible%20Hulk.mkv
